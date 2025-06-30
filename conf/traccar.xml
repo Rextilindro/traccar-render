@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<properties>
+    <entry key='config.default'>./conf/default.xml</entry>
+
+    <!-- Cambia el puerto si quieres -->
+    <entry key='web.port'>8082</entry>
+
+    <!-- Cambia el idioma si quieres -->
+    <entry key='locale.language'>es</entry>
+</properties>
